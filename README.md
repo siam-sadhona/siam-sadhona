@@ -6,7 +6,7 @@
 
 Skills:  HTML / CSS/ JAVASCRIPT/ REACT JS
 
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning PHP 
 - 🤔 I’m looking for help with exploring code. 
 - 💬 Ask me about any code that Peek out in your mind. 
 
@@ -20,5 +20,9 @@ Skills:  HTML / CSS/ JAVASCRIPT/ REACT JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=siam-sadhona&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=siam-sadhona)  
+
+![GitHub metrics](https://metrics.lecoq.io/siam-sadhona)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=siam-sadhona)  
 
 ![Profile views](https://gpvc.arturio.dev/siam-sadhona)  
