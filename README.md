@@ -6,7 +6,7 @@
 
 Skills:  HTML / CSS/ JAVASCRIPT/ REACT JS
 
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with exploring code. 
 - 💬 Ask me about any code that Peek out in your mind. 
 
