@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Siam Sadhona.
 #### Web Developer.
-![Web Developer.](http://florida.vistage.com/wp-content/uploads/sites/18/2017/09/the_art_of_social_media.jpg)
+![Web Developer.](https://www.netguru.co/hubfs/Blog_posts_-_images/gititback%20blogpost%20cover.png)
 
 💥  I’m interested in Exploring Code.✅ I’m looking to collaborate on exploring any code that Peek out in your mind.
 
